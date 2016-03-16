@@ -1,2 +1,3 @@
 # hello-world
-Nu repository
+
+All work and no play makes something something. 
